@@ -13,5 +13,15 @@ To create contact,
    ![4th](https://github.com/suckib/Python-JS-Fullstack/assets/54441513/5b643a1d-ebee-4506-96c8-93d7c24cfae7)
 
 This system also allows to UPDATE and DELETE existing contact 
+To update any contact:
+1. Click on update of the contact and this form will appear:
+   
+
+![5th](https://github.com/suckib/Python-JS-Fullstack/assets/54441513/20207231-badc-4130-a81d-704341df1cd2)
+2. change any input in the form and click update again in the form (here email is changed):
+
+![6th](https://github.com/suckib/Python-JS-Fullstack/assets/54441513/d9ddf34f-af30-4473-a3b5-0a00d1289462)
+3. contact updated successfully:
+![8th](https://github.com/suckib/Python-JS-Fullstack/assets/54441513/36077425-bf20-43ff-8e7a-26edc9814520)
 
 
