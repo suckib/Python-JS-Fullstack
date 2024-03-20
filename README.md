@@ -12,7 +12,8 @@ To create contact,
 3. created contacts are shown this way:
    ![4th](https://github.com/suckib/Python-JS-Fullstack/assets/54441513/5b643a1d-ebee-4506-96c8-93d7c24cfae7)
 
-This system also allows to UPDATE and DELETE existing contact 
+This system also allows to UPDATE and DELETE existing contact.
+
 To update any contact:
 1. Click on update of the contact and this form will appear:
    
