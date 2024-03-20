@@ -25,4 +25,15 @@ To update any contact:
 3. contact updated successfully:
 ![8th](https://github.com/suckib/Python-JS-Fullstack/assets/54441513/36077425-bf20-43ff-8e7a-26edc9814520)
 
+To delete any contact:
+
+1. Here are some contacts:
+   
+![9th](https://github.com/suckib/Python-JS-Fullstack/assets/54441513/5ecf4e0d-3921-4b63-a7ea-d7a62532a3a4)
+
+2. click on delete of the contact to delete (deleting 2nd contact for example):
+   ![10th](https://github.com/suckib/Python-JS-Fullstack/assets/54441513/8316c9a4-5b4e-42c0-ac61-414c549fb0e8)
+
+   
+
 
