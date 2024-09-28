@@ -1,4 +1,4 @@
-# **Python-JS-Fullstack**
+# *Python-JS-Fullstack*
 A full stack app using Python and JavaScript.  
 Here as backend Python and Flask API is used.  
 For frontend JavaScript and React framework is used.  
