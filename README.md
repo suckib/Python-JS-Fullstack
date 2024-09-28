@@ -34,6 +34,7 @@ To delete any contact:
 2. click on delete of the contact to delete (deleting 2nd contact for example):
    ![10th](https://github.com/suckib/Python-JS-Fullstack/assets/54441513/8316c9a4-5b4e-42c0-ac61-414c549fb0e8)
 
+### *still not deployed*
    
 
 
